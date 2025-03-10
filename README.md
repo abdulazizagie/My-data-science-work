@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Data-Science
-=======
-# Data Science Project Folder
+
+## Data Science Project Folder
 - I have created a Data Science folder where I work on data manipulation, machine learning, and predictive modeling. This includes data cleaning, clustering, applying machine learning algorithms, time series forecasting, and data visualization.
 
 ## 1. Data Cleaning & Preprocessing
